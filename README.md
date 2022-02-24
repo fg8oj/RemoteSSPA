@@ -1,14 +1,14 @@
 * Remote SSPA
 
-- The goal is to be able to run a SSPA remotely (currently to the counterpoise of my dish in my case) and to get the collected informations to a PC or Rapasberry PI in a JSON format to be able to view it from a webpage for example.
+The goal is to be able to run a SSPA remotely (currently to the counterpoise of my dish in my case) and to get the collected informations to a PC or Rapasberry PI in a JSON format to be able to view it from a webpage for example.
 
-- The informations are :
-*** Main DC voltage (50V/28V/...)
-*** Main DC current
-* Temperature on the mosfet board
-* Temporateur on the SSPA box
-* Forwarded RF
-* Reflected RF
+The informations are :
+ Main DC voltage (50V/28V/...)
+ Main DC current
+ Temperature on the mosfet board
+ Temporateur on the SSPA box
+ Forwarded RF
+ Reflected RF
 
 
 * Materials I used :
