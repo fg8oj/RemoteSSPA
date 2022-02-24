@@ -1,8 +1,8 @@
-#Remote SSPA
+# Remote SSPA
 
  The goal is to be able to run a SSPA remotely (currently to the counterpoise of my dish in my case) and to get the collected informations to a PC or Rapasberry PI in a JSON format to be able to view it from a webpage for example.
 
-##The informations are :
+## The informations are :
  - Main DC voltage (50V/28V/...)
  - Main DC current
  - Temperature on the mosfet board
@@ -11,7 +11,7 @@
  - Reflected RF
 
 
-##Materials I used :
+## Materials I used :
  - 1 * Arduino NANO 3 https://www.amazon.com/HiLetgo-ATmega328P-Controller-Development-Unsoldered/dp/B01DLIJQA2/ref=sr_1_2_sspa
  - 2 * Temperature sensor https://fr.aliexpress.com/item/4000139863432.html
  - 2 * GY-159 Current sensor : https://fr.aliexpress.com/item/32707240446.html
