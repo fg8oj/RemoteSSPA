@@ -18,3 +18,5 @@
  - 1 * RF Bi-directionnal Coupler depending of power/frequency (you can find NARDA refurbished on ebay)
  - 2 * 20db/10dB depending of your RF coupler
  - 2 * AD8361 RF detector https://fr.aliexpress.com/item/32854965471.html
+
+(https://raw.githubusercontent.com/fg8oj/RemoteSSPA/main/064844b2-3c6a-42b8-ac4b-5279807e3cb6.jpeg)
