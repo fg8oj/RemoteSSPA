@@ -11,7 +11,7 @@ The informations are :
 - Reflected RF
 
 
-* Materials I used :
+Materials I used :
 - 1 * Arduino NANO 3 https://www.amazon.com/HiLetgo-ATmega328P-Controller-Development-Unsoldered/dp/B01DLIJQA2/ref=sr_1_2_sspa
 - 2 * Temperature sensor https://fr.aliexpress.com/item/4000139863432.html
 - 2 * GY-159 Current sensor : https://fr.aliexpress.com/item/32707240446.html
